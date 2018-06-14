@@ -1,8 +1,4 @@
 {
-  "env": {
-    "NPM_CONFIG_PRODUCTION": "false"
-  }
-}
   "name": "jsstack-09",
   "scripts": {
   },
