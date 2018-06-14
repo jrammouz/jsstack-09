@@ -3,3 +3,21 @@
     "NPM_CONFIG_PRODUCTION": "false"
   }
 }
+  "name": "jsstack-09",
+  "scripts": {
+  },
+  "env": {
+    "NPM_CONFIG_PRODUCTION": {
+      "required": false
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
+
