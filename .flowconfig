@@ -1,0 +1,7 @@
+[ignore]
+.*/node_modules/boxen/node_modules/chalk/index.js
+.*/node_modules/update-notifier/node_modules/chalk/index.js
+.*/node_modules/jss/.*
+
+[options]
+suppress_comment= \\(.\\|\n\\)*\\flow-disable-next-line
